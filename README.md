@@ -1,13 +1,15 @@
-# Myportfolio
-### Who am I?
-Hello, Iam Samuel Tarifa Flores a person who codes mostly for fun (and also to get a job). My main objective right now is to keep developing my skills (Coding, 3D modeling and video editing mainly) The reason for that is that I am a person who likes to do things overall, right now my two main projects are:
-  - To develop my videogame
-  - To keep on creating content for my youtube chanel
+#My Portfolio
+###Who am I?
+Hello, I am Samuel Tarifa Flores, a person who codes mostly for fun (and also to get a job). My main objective right now is to keep developing my skills (coding, 3D modeling, and video editing mainly). The reason for that is that I am a person who likes to do things overall. Right now, my two main projects are:
+  - To develop my video game
+  - To keep on creating content for my YouTube channel
 
-However until i can actually start living off of those i first need to get a job that will support me financially, for that i am still studiying to get more knoledge. Right now I have:
-  - Technician in microinformatic systems and networks
+However, until I can actually start living off of those, I first need to get a job that will support me financially. For that, I am still studying to gain more knowledge. Right now, I have:
+  - Technician in Microinformatic Systems and Networks
   - CISCO
-  - Technician in development of web aplications (In progress)
+  - Technician in Development of Web Applications (In progress)
 
-### My experience at coding
-I first started coding when i was thirteen years old, I tried to learn C# to create videogames in Unity but my PC was too old for that so i eventually stopped due to hardware limitations. After this when i was 16 i tried to create a videogame again, this time in Godot, with a new PC it was finally posible since i didnt lack the hardware to do so. In Godot i learned GDScript a programming language created specifically for Godot, GDScript is basically C++ but with all of the funcionalities from the Godot engine integrated, while I am very good at coding I still am working on 3D modeling so I have had to delay the videogame
+#My experience with coding
+I first started coding when I was thirteen years old. I tried to learn C# to create video games in Unity, but my PC was too old for that, so I eventually stopped due to hardware limitations. After this, when I was 16, I tried to create a video game again, this time in Godot. With a new PC, it was finally possible since I didn't lack the hardware to do so. In Godot, I learned GDScript, a programming language created specifically for Godot. GDScript is basically C++ but with all of the functionalities from the Godot engine integrated.
+
+While I am very good at coding, I am still working on 3D modeling, so I have had to delay the video game.
