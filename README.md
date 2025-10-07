@@ -1,2 +1,2 @@
 # Myportfolio
-ABCD
+Hello, i am Samuel Tarifa Flores a person who codes mostly for fun (and also to get a job, thats important) I first started coding when i was thirteen years old, I tried to learn C# to create videogames in Unity but my PC was too old for that so i eventually gave up. After this when i was 16 i tried to create a videogame again, this time in Godot, with a new PC it was finally posible since i didnt lack the hardware to do so. In Godot i learned GDScript a programming language created specifically for Godot, GDScript is basically C++ but with all of the funcionalities from the Godot engine integrated, while I am very good at coding I still am working on 3D modeling so I have had to delay the videogame
