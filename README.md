@@ -1,10 +1,10 @@
 # My Portfolio
 ### Who am I?
-Hello, I am Samuel Tarifa Flores, a person who codes mostly for fun (and also to get a job). My main objective right now is to keep developing my skills (coding, 3D modeling, and video editing mainly). The reason for that is that I am a person who likes to do things overall. Right now, my two main projects are:
-  - To develop my video game
-  - To keep on creating content for my YouTube channel
+Hello, I am Samuel Tarifa Flores, a person who codes mostly for fun (and also to get a job). My main objective right now is to keep developing my skills (coding, 3D modeling, and video editing mainly). The reason for that is that I am a person who likes to do things overall and is often doing projects on his own. Right now, my two main projects are:
+  - My videogame (On hiatus until i am better at 3D modeling)
+  - My youtube chanel (I am still creating and saving videos, to have some saved for when i actually start posting)
 
-However, until I can actually start living off of those, I first need to get a job that will support me financially. For that, I am still studying to gain more knowledge. Right now, I have:
+However, until I can actually start living off of those, I first need to get a job that will support me financially. For that, I am still studying to gain more knowledge. Right now, I have (related to IT):
   - Technician in Microinformatic Systems and Networks
   - CISCO
   - Technician in Development of Web Applications (In progress)
